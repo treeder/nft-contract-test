@@ -21,7 +21,7 @@ contract SMA is ERC721URIStorage {
 
     constructor() ERC721("Stategic Area", "SMA") {}
 
-    function issue(address owner, string memory tokenURI)
+    function mint(address owner, string memory tokenURI)
         public
         returns (uint256)
     {
