@@ -1,0 +1,9 @@
+{
+    "signedAt": "2022-03-10",
+    "expiresAt": "2023-03-10",
+    "id": "123",
+    "signedBy": "Jason Zapp",
+    "contractHash": "d30998723591d507749e84154a93017b5fdf335ea86234762ec7d770ba381029",
+    "checksum": "d30998723591d507749e84154a93017b5fdf335ea86234762ec7d770ba381029 *hsrc-chainparency-certificate.pdf",
+    "contractURL": "https://github.com/treeder/nft-contract-test/raw/main/hsrc-chainparency-certificate.pdf"
+}
